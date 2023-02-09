@@ -289,8 +289,8 @@ body {
 .loader {
   position: absolute;
   top:   calc(50% - 12%);
-  left: calc(50% - 12%);
-  width:  24%;
+  left: calc(50% - 22%);
+  width:  44%;
   height: 24%;
   color: #333;
   font-size:   84px;

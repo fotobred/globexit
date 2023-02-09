@@ -8,11 +8,11 @@ var GlobexITlistUser = GlobexITlistUser || {};
 	
 GlobexITlistUser = {
 	
-	gc: 0, 					// "глобальный" счетчик
-	test_out: "yes", // "N" // режим вывода диагностики 
+	gc: 0, 				// "глобальный" счетчик
+	test_out: "yes", 	// "N" // режим вывода диагностики 
 
-	// URL:  "//localhost/test_work/server/users.json",
-	URL: "//127.0.0.1:3000", 
+	URL:  "/server/users.json",
+	//URL: "//127.0.0.1:3000", 
 	X: {},
 
 	// cl() - вывод дополнительной отладочной информации со сквозной нумерацией
