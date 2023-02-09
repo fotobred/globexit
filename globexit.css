@@ -285,7 +285,7 @@ body {
 #showLoad.hide {
   display: none;
 }
-
+ 
 .loader {
   position: absolute;
   top:   calc(50% - 12%);
